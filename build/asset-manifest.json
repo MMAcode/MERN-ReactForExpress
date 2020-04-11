@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.5f361e03.chunk.css",
-    "main.js": "/static/js/main.a50bf660.chunk.js",
-    "main.js.map": "/static/js/main.a50bf660.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.336845be.js",
-    "runtime-main.js.map": "/static/js/runtime-main.336845be.js.map",
-    "static/js/2.4fd5bbd9.chunk.js": "/static/js/2.4fd5bbd9.chunk.js",
-    "static/js/2.4fd5bbd9.chunk.js.map": "/static/js/2.4fd5bbd9.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.98143868785a1b2bf13ba5902e8d1254.js": "/precache-manifest.98143868785a1b2bf13ba5902e8d1254.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.4fd5bbd9.chunk.js.LICENSE.txt": "/static/js/2.4fd5bbd9.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "main.css": "/MERN-ReactForExpress/static/css/main.523f09c5.chunk.css",
+    "main.js": "/MERN-ReactForExpress/static/js/main.a35db8c6.chunk.js",
+    "main.js.map": "/MERN-ReactForExpress/static/js/main.a35db8c6.chunk.js.map",
+    "runtime-main.js": "/MERN-ReactForExpress/static/js/runtime-main.defa0bf7.js",
+    "runtime-main.js.map": "/MERN-ReactForExpress/static/js/runtime-main.defa0bf7.js.map",
+    "static/js/2.472b72e7.chunk.js": "/MERN-ReactForExpress/static/js/2.472b72e7.chunk.js",
+    "static/js/2.472b72e7.chunk.js.map": "/MERN-ReactForExpress/static/js/2.472b72e7.chunk.js.map",
+    "index.html": "/MERN-ReactForExpress/index.html",
+    "precache-manifest.9c670e9126a69db88b79d21fb70b81eb.js": "/MERN-ReactForExpress/precache-manifest.9c670e9126a69db88b79d21fb70b81eb.js",
+    "service-worker.js": "/MERN-ReactForExpress/service-worker.js",
+    "static/css/main.523f09c5.chunk.css.map": "/MERN-ReactForExpress/static/css/main.523f09c5.chunk.css.map",
+    "static/js/2.472b72e7.chunk.js.LICENSE.txt": "/MERN-ReactForExpress/static/js/2.472b72e7.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/MERN-ReactForExpress/static/media/logo.ee7cd8ed.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.336845be.js",
-    "static/js/2.4fd5bbd9.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.a50bf660.chunk.js"
+    "static/js/runtime-main.defa0bf7.js",
+    "static/js/2.472b72e7.chunk.js",
+    "static/css/main.523f09c5.chunk.css",
+    "static/js/main.a35db8c6.chunk.js"
   ]
 }
