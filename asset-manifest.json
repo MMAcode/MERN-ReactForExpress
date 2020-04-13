@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MERN-ReactForExpress/static/css/main.f9da2531.chunk.css",
+    "main.js": "/MERN-ReactForExpress/static/js/main.7dfe085f.chunk.js",
+    "main.js.map": "/MERN-ReactForExpress/static/js/main.7dfe085f.chunk.js.map",
+    "runtime-main.js": "/MERN-ReactForExpress/static/js/runtime-main.defa0bf7.js",
+    "runtime-main.js.map": "/MERN-ReactForExpress/static/js/runtime-main.defa0bf7.js.map",
+    "static/js/2.472b72e7.chunk.js": "/MERN-ReactForExpress/static/js/2.472b72e7.chunk.js",
+    "static/js/2.472b72e7.chunk.js.map": "/MERN-ReactForExpress/static/js/2.472b72e7.chunk.js.map",
+    "index.html": "/MERN-ReactForExpress/index.html",
+    "precache-manifest.65d4afc5646de9f4cb04f630ed132634.js": "/MERN-ReactForExpress/precache-manifest.65d4afc5646de9f4cb04f630ed132634.js",
+    "service-worker.js": "/MERN-ReactForExpress/service-worker.js",
+    "static/css/main.f9da2531.chunk.css.map": "/MERN-ReactForExpress/static/css/main.f9da2531.chunk.css.map",
+    "static/js/2.472b72e7.chunk.js.LICENSE.txt": "/MERN-ReactForExpress/static/js/2.472b72e7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.defa0bf7.js",
+    "static/js/2.472b72e7.chunk.js",
+    "static/css/main.f9da2531.chunk.css",
+    "static/js/main.7dfe085f.chunk.js"
+  ]
+}
