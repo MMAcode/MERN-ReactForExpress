@@ -5,6 +5,7 @@ import './App.css';
 import FirstPage from './Components/FirstPage'
 import SecondPage from './Components/SecondPage'
 import APIPage from './Components/APIPage'
+import Test from './Components/Test'
 import styled from 'styled-components'
 
 const SLink = styled(Link)`
@@ -21,21 +22,18 @@ function App() {
       {/* <header className="App-header">
       </header> */}
       <div style={{ display: 'flex' }}>
-        <SLink to='/'>Home</SLink>
-        <SLink to='page2'>Page 2.</SLink>
-        <SLink to='pageAPI'>Page 3 - public API</SLink>
-        <SLink to='/x'>x land</SLink>
-        <SLink to='/api'> Miro's old local Express api</SLink>
+        <SLink to='/MERN-ReactForExpress/'>Home</SLink>
+        <SLink to='/'>/Home</SLink>
+        <SLink to='/MERN-ReactForExpress/page2'>Page 2.</SLink>
+        <SLink to='/MERN-ReactForExpress/pageAPI'>Page 3 - public API</SLink>
       </div>
+ 
 
       <Switch>
-        <Route exact path='/' component={FirstPage} />
-        <Route exact path='/page2' component={SecondPage} />
-        <Route exact path='/pageAPI' component={APIPage} />
+        <Route exact path='/MERN-ReactForExpress/' component={FirstPage} />
+        <Route exact path='/MERN-ReactForExpress/page2' component={SecondPage} />
+        <Route exact path='/MERN-ReactForExpress/pageAPI' component={APIPage} />
       </Switch>
-
-
-
     </div>
   );
 }

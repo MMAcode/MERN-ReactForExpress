@@ -29,8 +29,8 @@ function APIPage() {
       <Frame>
         {/* <CatsFrame /> */}
         <DogsFrame />
-        <APITemplate url='/api/json' title='test of simple local API from Express'/>
-        <APITemplate url='/api/json/cats' title='cats from Remote API using CORS'/>
+        <APITemplate url='https://mern-express-heroku.herokuapp.com/api/json' title='test of simple local API from Express'/>
+        <APITemplate url='https://mern-express-heroku.herokuapp.com/api/json/cats' title='cats from Remote API using CORS'/>
         {/* <APITemplate url='/api/send' /> */}
         {/* <APITemplate url='/api/write' /> */}
 
