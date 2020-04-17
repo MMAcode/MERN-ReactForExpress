@@ -11,7 +11,7 @@ import styled from 'styled-components'
 // min-height:100px;
 // min-width:300px;
 // `;
-const Frame = styled.div`
+const SFrame = styled.div`
 >*{
 background-color: lightgreen;
 min-height:100px;
@@ -22,20 +22,21 @@ margin:10px;
 
 
 function APIPage() {
-
+  const urlRoot = 'https://mern-express-heroku.herokuapp.com/api';
+  // const urlRoot = 'http://localhost:3001/api';
   return (
     <>
       <h2>This is API page.</h2>
-      <Frame>
+      <SFrame>
         {/* <CatsFrame /> */}
         <DogsFrame />
-        <APITemplate url='https://mern-express-heroku.herokuapp.com/api/json' title='test of simple local API from Express'/>
-        <APITemplate url='https://mern-express-heroku.herokuapp.com/api/json/cats' title='cats from Remote API using CORS'/>
+        <APITemplate url={urlRoot+'/json'} title='test of simple local API from Express'/>
+        <APITemplate url={urlRoot+'/json/cats'} title='cats from Remote API using CORS'/>
         {/* <APITemplate url='/api/send' /> */}
         {/* <APITemplate url='/api/write' /> */}
 
 
-      </Frame>
+      </SFrame>
     </>
   );
 }
