@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/MERN-ReactForExpress/static/css/main.683a12d4.chunk.css",
-    "main.js": "/MERN-ReactForExpress/static/js/main.54da2ad1.chunk.js",
-    "main.js.map": "/MERN-ReactForExpress/static/js/main.54da2ad1.chunk.js.map",
+    "main.css": "/MERN-ReactForExpress/static/css/main.60ff5b25.chunk.css",
+    "main.js": "/MERN-ReactForExpress/static/js/main.2e744b1f.chunk.js",
+    "main.js.map": "/MERN-ReactForExpress/static/js/main.2e744b1f.chunk.js.map",
     "runtime-main.js": "/MERN-ReactForExpress/static/js/runtime-main.defa0bf7.js",
     "runtime-main.js.map": "/MERN-ReactForExpress/static/js/runtime-main.defa0bf7.js.map",
     "static/css/2.de424728.chunk.css": "/MERN-ReactForExpress/static/css/2.de424728.chunk.css",
-    "static/js/2.b51e4c3c.chunk.js": "/MERN-ReactForExpress/static/js/2.b51e4c3c.chunk.js",
-    "static/js/2.b51e4c3c.chunk.js.map": "/MERN-ReactForExpress/static/js/2.b51e4c3c.chunk.js.map",
+    "static/js/2.1a0e0de4.chunk.js": "/MERN-ReactForExpress/static/js/2.1a0e0de4.chunk.js",
+    "static/js/2.1a0e0de4.chunk.js.map": "/MERN-ReactForExpress/static/js/2.1a0e0de4.chunk.js.map",
     "index.html": "/MERN-ReactForExpress/index.html",
-    "precache-manifest.d5ef8f6bd3ac7beec4531cf821f67475.js": "/MERN-ReactForExpress/precache-manifest.d5ef8f6bd3ac7beec4531cf821f67475.js",
+    "precache-manifest.2091f1acf1cd9dcbd8b3f1669e285705.js": "/MERN-ReactForExpress/precache-manifest.2091f1acf1cd9dcbd8b3f1669e285705.js",
     "service-worker.js": "/MERN-ReactForExpress/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/MERN-ReactForExpress/static/css/2.de424728.chunk.css.map",
-    "static/css/main.683a12d4.chunk.css.map": "/MERN-ReactForExpress/static/css/main.683a12d4.chunk.css.map",
-    "static/js/2.b51e4c3c.chunk.js.LICENSE.txt": "/MERN-ReactForExpress/static/js/2.b51e4c3c.chunk.js.LICENSE.txt"
+    "static/css/main.60ff5b25.chunk.css.map": "/MERN-ReactForExpress/static/css/main.60ff5b25.chunk.css.map",
+    "static/js/2.1a0e0de4.chunk.js.LICENSE.txt": "/MERN-ReactForExpress/static/js/2.1a0e0de4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.defa0bf7.js",
     "static/css/2.de424728.chunk.css",
-    "static/js/2.b51e4c3c.chunk.js",
-    "static/css/main.683a12d4.chunk.css",
-    "static/js/main.54da2ad1.chunk.js"
+    "static/js/2.1a0e0de4.chunk.js",
+    "static/css/main.60ff5b25.chunk.css",
+    "static/js/main.2e744b1f.chunk.js"
   ]
 }
