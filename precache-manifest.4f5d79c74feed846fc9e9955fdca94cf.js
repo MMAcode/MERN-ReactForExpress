@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "231c92e0729e1f3db5a9523add28db43",
+    "revision": "6b284d31c18909beced71a57baa4f506",
     "url": "/MERN-ReactForExpress/index.html"
   },
   {
-    "revision": "9b7426478e2a6fa64988",
-    "url": "/MERN-ReactForExpress/static/css/2.de424728.chunk.css"
+    "revision": "4d6faca69fe9e67103a1",
+    "url": "/MERN-ReactForExpress/static/css/2.a859830d.chunk.css"
   },
   {
-    "revision": "adf12065a040bb9d3d98",
+    "revision": "3ce261c63deef52311d9",
     "url": "/MERN-ReactForExpress/static/css/main.c59a23d1.chunk.css"
   },
   {
-    "revision": "9b7426478e2a6fa64988",
-    "url": "/MERN-ReactForExpress/static/js/2.ac32bc75.chunk.js"
+    "revision": "4d6faca69fe9e67103a1",
+    "url": "/MERN-ReactForExpress/static/js/2.6e0ae4d5.chunk.js"
   },
   {
     "revision": "ec00e7368363741b5601cf672c7a017f",
-    "url": "/MERN-ReactForExpress/static/js/2.ac32bc75.chunk.js.LICENSE.txt"
+    "url": "/MERN-ReactForExpress/static/js/2.6e0ae4d5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "adf12065a040bb9d3d98",
-    "url": "/MERN-ReactForExpress/static/js/main.ed2d216d.chunk.js"
+    "revision": "3ce261c63deef52311d9",
+    "url": "/MERN-ReactForExpress/static/js/main.c358d861.chunk.js"
   },
   {
     "revision": "3e86507cdf29c4667831",
@@ -34,6 +34,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3d8fffdc7c42aa2b23bec2a2930526c6",
     "url": "/MERN-ReactForExpress/static/media/Derek_Clegg_-_09_-_Youre_The_Dummy.3d8fffdc.mp3"
+  },
+  {
+    "revision": "289d2da1744920007e7ea30706942689",
+    "url": "/MERN-ReactForExpress/static/media/Trumpets8s.289d2da1.mp3"
   },
   {
     "revision": "958974918b3b46a92a98f660da82b0ed",
