@@ -1,21 +1,20 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
-  "icons": [
-    {
-      "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
+  "short_name": "Pushup Plans",
+  "name": "Pushup Plans",
+  "icons": [{
+      "src": "PushupFavicon.ico",
+      "sizes": "32x32",
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "PushupMedium.png",
       "type": "image/png",
-      "sizes": "192x192"
+      "sizes": "288x192"
     },
     {
-      "src": "logo512.png",
+      "src": "PushupLarge.png",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "960x640"
     }
   ],
   "start_url": ".",
