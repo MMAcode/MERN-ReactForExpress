@@ -7,6 +7,11 @@
       "type": "image/x-icon"
     },
     {
+      "src": "PushupFaviconLarge.ico",
+      "sizes": "128x128 64x64 32x32 16x16",
+      "type": "image/x-icon"
+    },
+    {
       "src": "PushupMedium.png",
       "type": "image/png",
       "sizes": "288x192"
