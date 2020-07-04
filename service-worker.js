@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/MERN-ReactForExpress/precache-manifest.d49007a8025a8a20ed88cd6060ebd63e.js"
+  "/MERN-ReactForExpress/precache-manifest.742b4c4f3b1ead36726333e0a09749da.js"
 );
 
 self.addEventListener('message', (event) => {
