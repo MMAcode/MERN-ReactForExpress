@@ -1,6 +1,6 @@
 {
   "short_name": "Pushup Plans",
-  "name": "Pushup Plans",
+  "name": "Tested Pushup Plans",
   "icons": [{
       "src": "PushupFavicon.ico",
       "sizes": "32x32",
@@ -8,7 +8,7 @@
     },
     {
       "src": "PushupFaviconLarge.ico",
-      "sizes": "128x128 64x64 32x32 16x16",
+      "sizes": "256x256 128x128 64x64 32x32 16x16",
       "type": "image/x-icon"
     },
     {

@@ -1,39 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "db5117cfb24631bfe872a9afa4508a55",
+    "revision": "b210ecff569a9c328e6a2d77be910681",
     "url": "/MERN-ReactForExpress/index.html"
   },
   {
-    "revision": "989eb7230482bdb10bb9",
-    "url": "/MERN-ReactForExpress/static/css/2.2ddbe06f.chunk.css"
+    "revision": "61be5e0a5a3e53b5b7dd",
+    "url": "/MERN-ReactForExpress/static/css/2.a8da4384.chunk.css"
   },
   {
-    "revision": "1c39eefee26ff310371c",
-    "url": "/MERN-ReactForExpress/static/css/main.f819716f.chunk.css"
+    "revision": "5aa285ae362f88cb2010",
+    "url": "/MERN-ReactForExpress/static/css/main.163e1afd.chunk.css"
   },
   {
-    "revision": "989eb7230482bdb10bb9",
-    "url": "/MERN-ReactForExpress/static/js/2.8de070a9.chunk.js"
+    "revision": "61be5e0a5a3e53b5b7dd",
+    "url": "/MERN-ReactForExpress/static/js/2.d4be5c0a.chunk.js"
   },
   {
-    "revision": "6c5af3bdc44477613517d50a1020a30c",
-    "url": "/MERN-ReactForExpress/static/js/2.8de070a9.chunk.js.LICENSE.txt"
+    "revision": "6de742a5fefb446846352b4cbfe116e2",
+    "url": "/MERN-ReactForExpress/static/js/2.d4be5c0a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c55da483fba856f21532",
-    "url": "/MERN-ReactForExpress/static/js/3.dee95263.chunk.js"
+    "revision": "c339b6633dc5d2df0354",
+    "url": "/MERN-ReactForExpress/static/js/3.7cf9c836.chunk.js"
   },
   {
     "revision": "287e48aeac3564a8b2b5685a67fb9216",
-    "url": "/MERN-ReactForExpress/static/js/3.dee95263.chunk.js.LICENSE.txt"
+    "url": "/MERN-ReactForExpress/static/js/3.7cf9c836.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1c39eefee26ff310371c",
-    "url": "/MERN-ReactForExpress/static/js/main.9ccd6e01.chunk.js"
+    "revision": "5aa285ae362f88cb2010",
+    "url": "/MERN-ReactForExpress/static/js/main.e2be1fdf.chunk.js"
   },
   {
-    "revision": "590bd6d37220a18b888b",
-    "url": "/MERN-ReactForExpress/static/js/runtime-main.1694862f.js"
+    "revision": "e6b4e946a0f48d8108be",
+    "url": "/MERN-ReactForExpress/static/js/runtime-main.e0c665bf.js"
   },
   {
     "revision": "2655ec0c046600622ed464009aece931",
