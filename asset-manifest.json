@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/MERN-ReactForExpress/static/css/main.163e1afd.chunk.css",
-    "main.js": "/MERN-ReactForExpress/static/js/main.3c51086a.chunk.js",
-    "main.js.map": "/MERN-ReactForExpress/static/js/main.3c51086a.chunk.js.map",
+    "main.css": "/MERN-ReactForExpress/static/css/main.08c2662f.chunk.css",
+    "main.js": "/MERN-ReactForExpress/static/js/main.333febdd.chunk.js",
+    "main.js.map": "/MERN-ReactForExpress/static/js/main.333febdd.chunk.js.map",
     "runtime-main.js": "/MERN-ReactForExpress/static/js/runtime-main.73cf04a6.js",
     "runtime-main.js.map": "/MERN-ReactForExpress/static/js/runtime-main.73cf04a6.js.map",
     "static/css/2.a8da4384.chunk.css": "/MERN-ReactForExpress/static/css/2.a8da4384.chunk.css",
@@ -11,10 +11,10 @@
     "static/js/3.bbfcbaa9.chunk.js": "/MERN-ReactForExpress/static/js/3.bbfcbaa9.chunk.js",
     "static/js/3.bbfcbaa9.chunk.js.map": "/MERN-ReactForExpress/static/js/3.bbfcbaa9.chunk.js.map",
     "index.html": "/MERN-ReactForExpress/index.html",
-    "precache-manifest.c2cbffb447946882291e0f6acfeb1112.js": "/MERN-ReactForExpress/precache-manifest.c2cbffb447946882291e0f6acfeb1112.js",
+    "precache-manifest.4c308139f35b27bccc8e9f9eaa725b76.js": "/MERN-ReactForExpress/precache-manifest.4c308139f35b27bccc8e9f9eaa725b76.js",
     "service-worker.js": "/MERN-ReactForExpress/service-worker.js",
     "static/css/2.a8da4384.chunk.css.map": "/MERN-ReactForExpress/static/css/2.a8da4384.chunk.css.map",
-    "static/css/main.163e1afd.chunk.css.map": "/MERN-ReactForExpress/static/css/main.163e1afd.chunk.css.map",
+    "static/css/main.08c2662f.chunk.css.map": "/MERN-ReactForExpress/static/css/main.08c2662f.chunk.css.map",
     "static/js/2.798fbe12.chunk.js.LICENSE.txt": "/MERN-ReactForExpress/static/js/2.798fbe12.chunk.js.LICENSE.txt",
     "static/js/3.bbfcbaa9.chunk.js.LICENSE.txt": "/MERN-ReactForExpress/static/js/3.bbfcbaa9.chunk.js.LICENSE.txt",
     "static/media/Complete 2.m4a": "/MERN-ReactForExpress/static/media/Complete 2.2655ec0c.m4a",
@@ -29,7 +29,7 @@
     "static/js/runtime-main.73cf04a6.js",
     "static/css/2.a8da4384.chunk.css",
     "static/js/2.798fbe12.chunk.js",
-    "static/css/main.163e1afd.chunk.css",
-    "static/js/main.3c51086a.chunk.js"
+    "static/css/main.08c2662f.chunk.css",
+    "static/js/main.333febdd.chunk.js"
   ]
 }
