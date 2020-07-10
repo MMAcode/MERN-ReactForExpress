@@ -20,6 +20,21 @@
       "src": "PushupLarge.png",
       "type": "image/png",
       "sizes": "960x640"
+    },
+    {
+      "src": "PushupMediumSquare192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "PushupMediumSquare288orig.png",
+      "type": "image/png",
+      "sizes": "288x288"
+    },
+    {
+      "src": "PushupMediumSquare512.png",
+      "type": "image/png",
+      "sizes": "512x512"
     }
   ],
   "start_url": ".",
