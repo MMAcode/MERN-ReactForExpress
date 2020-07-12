@@ -8,3 +8,7 @@ self.addEventListener('push', event => {
     self.registration.showNotification(data.title, options)
   );
 })
+
+self.addEventListener('install', e => {
+  console.log("MM c-sw install event fired");
+})
