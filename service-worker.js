@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/MERN-ReactForExpress/precache-manifest.e3007d816628c76d20df93db7a25ec10.js"
+  "/MERN-ReactForExpress/precache-manifest.b92430f801c682ce2284264f5c9f01ae.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -48,30 +48,30 @@ self.addEventListener('push', event => {
   );
 })
 
-self.addEventListener('install', e => {
-  console.log("MM c-sw install event fired");
-})
+// self.addEventListener('install', e => {
+//   console.log("MM c-sw install event fired");
+// })
 
 
-self.addEventListener('notificationclose', function (e) {
-  var notification = e.notification;
-  var data = notification.data || {};
-  var primaryKey = data.primaryKey;
-  console.log('Closed notification: ' + primaryKey);
-});
-self.addEventListener('notificationclick', function (e) {
-  var notification = e.notification;
-  var data = notification.data || {};
-  var primaryKey = data.primaryKey;
-  var action = e.action;
-  console.log('Clicked notification: ' + primaryKey);
-  if (action === 'close') {
-    console.log('Notification clicked and closed', primaryKey);
-    notification.close();
-  }
-  else {
-    console.log('Notification actioned', primaryKey);
-    clients.openWindow('/');
-    notification.close();
-  }
-});
+// self.addEventListener('notificationclose', function (e) {
+//   var notification = e.notification;
+//   var data = notification.data || {};
+//   var primaryKey = data.primaryKey;
+//   console.log('Closed notification: ' + primaryKey);
+// });
+// self.addEventListener('notificationclick', function (e) {
+//   var notification = e.notification;
+//   var data = notification.data || {};
+//   var primaryKey = data.primaryKey;
+//   var action = e.action;
+//   console.log('Clicked notification: ' + primaryKey);
+//   if (action === 'close') {
+//     console.log('Notification clicked and closed', primaryKey);
+//     notification.close();
+//   }
+//   else {
+//     console.log('Notification actioned', primaryKey);
+//     clients.openWindow('/');
+//     notification.close();
+//   }
+// });
