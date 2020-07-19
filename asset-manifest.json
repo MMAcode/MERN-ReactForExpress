@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/MERN-ReactForExpress/static/css/main.08c2662f.chunk.css",
-    "main.js": "/MERN-ReactForExpress/static/js/main.5f179df2.chunk.js",
-    "main.js.map": "/MERN-ReactForExpress/static/js/main.5f179df2.chunk.js.map",
+    "main.js": "/MERN-ReactForExpress/static/js/main.cf48c07b.chunk.js",
+    "main.js.map": "/MERN-ReactForExpress/static/js/main.cf48c07b.chunk.js.map",
     "runtime-main.js": "/MERN-ReactForExpress/static/js/runtime-main.73cf04a6.js",
     "runtime-main.js.map": "/MERN-ReactForExpress/static/js/runtime-main.73cf04a6.js.map",
     "static/css/2.a8da4384.chunk.css": "/MERN-ReactForExpress/static/css/2.a8da4384.chunk.css",
@@ -11,7 +11,7 @@
     "static/js/3.bbfcbaa9.chunk.js": "/MERN-ReactForExpress/static/js/3.bbfcbaa9.chunk.js",
     "static/js/3.bbfcbaa9.chunk.js.map": "/MERN-ReactForExpress/static/js/3.bbfcbaa9.chunk.js.map",
     "index.html": "/MERN-ReactForExpress/index.html",
-    "precache-manifest.5c0f122c510ca415569eeaa74376c3d8.js": "/MERN-ReactForExpress/precache-manifest.5c0f122c510ca415569eeaa74376c3d8.js",
+    "precache-manifest.8a2a5d52d91372864879d84ac3ef8eef.js": "/MERN-ReactForExpress/precache-manifest.8a2a5d52d91372864879d84ac3ef8eef.js",
     "service-worker.js": "/MERN-ReactForExpress/service-worker.js",
     "static/css/2.a8da4384.chunk.css.map": "/MERN-ReactForExpress/static/css/2.a8da4384.chunk.css.map",
     "static/css/main.08c2662f.chunk.css.map": "/MERN-ReactForExpress/static/css/main.08c2662f.chunk.css.map",
@@ -30,6 +30,6 @@
     "static/css/2.a8da4384.chunk.css",
     "static/js/2.798fbe12.chunk.js",
     "static/css/main.08c2662f.chunk.css",
-    "static/js/main.5f179df2.chunk.js"
+    "static/js/main.cf48c07b.chunk.js"
   ]
 }
