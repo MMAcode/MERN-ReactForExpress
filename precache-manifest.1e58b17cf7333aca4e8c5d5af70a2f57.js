@@ -1,39 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ad34c032d59f8a915ca11e33a7c920de",
+    "revision": "f25fff0e8db3c7599cb401f2ab295149",
     "url": "/MERN-ReactForExpress/index.html"
   },
   {
-    "revision": "f094e11f5b741b812ea1",
+    "revision": "bddf35a3a76b5501bada",
     "url": "/MERN-ReactForExpress/static/css/2.a8da4384.chunk.css"
   },
   {
-    "revision": "dd50241bc76e07ae2681",
+    "revision": "979a2725155e499ed69f",
     "url": "/MERN-ReactForExpress/static/css/main.08c2662f.chunk.css"
   },
   {
-    "revision": "f094e11f5b741b812ea1",
-    "url": "/MERN-ReactForExpress/static/js/2.70d5f8b6.chunk.js"
+    "revision": "bddf35a3a76b5501bada",
+    "url": "/MERN-ReactForExpress/static/js/2.150b2883.chunk.js"
   },
   {
     "revision": "99121819768dd441bad81df3a6db497d",
-    "url": "/MERN-ReactForExpress/static/js/2.70d5f8b6.chunk.js.LICENSE.txt"
+    "url": "/MERN-ReactForExpress/static/js/2.150b2883.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5c9f24885cddc944b567",
-    "url": "/MERN-ReactForExpress/static/js/3.bbfcbaa9.chunk.js"
+    "revision": "0d48509f7bf6d89922eb",
+    "url": "/MERN-ReactForExpress/static/js/3.a06c1575.chunk.js"
   },
   {
     "revision": "287e48aeac3564a8b2b5685a67fb9216",
-    "url": "/MERN-ReactForExpress/static/js/3.bbfcbaa9.chunk.js.LICENSE.txt"
+    "url": "/MERN-ReactForExpress/static/js/3.a06c1575.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dd50241bc76e07ae2681",
-    "url": "/MERN-ReactForExpress/static/js/main.8407f3ae.chunk.js"
+    "revision": "979a2725155e499ed69f",
+    "url": "/MERN-ReactForExpress/static/js/main.849e157c.chunk.js"
   },
   {
-    "revision": "ebd87d80a1173b29ace4",
-    "url": "/MERN-ReactForExpress/static/js/runtime-main.73cf04a6.js"
+    "revision": "749813a9906032abeb2c",
+    "url": "/MERN-ReactForExpress/static/js/runtime-main.cde21b43.js"
   },
   {
     "revision": "2655ec0c046600622ed464009aece931",
@@ -42,6 +42,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3d8fffdc7c42aa2b23bec2a2930526c6",
     "url": "/MERN-ReactForExpress/static/media/Derek_Clegg_-_09_-_Youre_The_Dummy.3d8fffdc.mp3"
+  },
+  {
+    "revision": "0b1e5c66ff3a8182adf594c54f08f630",
+    "url": "/MERN-ReactForExpress/static/media/Gicon.0b1e5c66.png"
   },
   {
     "revision": "289d2da1744920007e7ea30706942689",
