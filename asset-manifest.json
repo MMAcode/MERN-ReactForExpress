@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/MERN-ReactForExpress/static/css/main.3477facf.chunk.css",
-    "main.js": "/MERN-ReactForExpress/static/js/main.112aca78.chunk.js",
-    "main.js.map": "/MERN-ReactForExpress/static/js/main.112aca78.chunk.js.map",
+    "main.js": "/MERN-ReactForExpress/static/js/main.47f97538.chunk.js",
+    "main.js.map": "/MERN-ReactForExpress/static/js/main.47f97538.chunk.js.map",
     "runtime-main.js": "/MERN-ReactForExpress/static/js/runtime-main.0d207709.js",
     "runtime-main.js.map": "/MERN-ReactForExpress/static/js/runtime-main.0d207709.js.map",
     "static/css/2.a8da4384.chunk.css": "/MERN-ReactForExpress/static/css/2.a8da4384.chunk.css",
-    "static/js/2.0a2badb4.chunk.js": "/MERN-ReactForExpress/static/js/2.0a2badb4.chunk.js",
-    "static/js/2.0a2badb4.chunk.js.map": "/MERN-ReactForExpress/static/js/2.0a2badb4.chunk.js.map",
+    "static/js/2.ffe9081a.chunk.js": "/MERN-ReactForExpress/static/js/2.ffe9081a.chunk.js",
+    "static/js/2.ffe9081a.chunk.js.map": "/MERN-ReactForExpress/static/js/2.ffe9081a.chunk.js.map",
     "static/js/3.9d53ef3c.chunk.js": "/MERN-ReactForExpress/static/js/3.9d53ef3c.chunk.js",
     "static/js/3.9d53ef3c.chunk.js.map": "/MERN-ReactForExpress/static/js/3.9d53ef3c.chunk.js.map",
     "index.html": "/MERN-ReactForExpress/index.html",
-    "precache-manifest.b4fe1eb8414c7212d9cf6dea5332135c.js": "/MERN-ReactForExpress/precache-manifest.b4fe1eb8414c7212d9cf6dea5332135c.js",
+    "precache-manifest.70bf46468c163a04237fb1b019070e7c.js": "/MERN-ReactForExpress/precache-manifest.70bf46468c163a04237fb1b019070e7c.js",
     "service-worker.js": "/MERN-ReactForExpress/service-worker.js",
     "static/css/2.a8da4384.chunk.css.map": "/MERN-ReactForExpress/static/css/2.a8da4384.chunk.css.map",
     "static/css/main.3477facf.chunk.css.map": "/MERN-ReactForExpress/static/css/main.3477facf.chunk.css.map",
-    "static/js/2.0a2badb4.chunk.js.LICENSE.txt": "/MERN-ReactForExpress/static/js/2.0a2badb4.chunk.js.LICENSE.txt",
+    "static/js/2.ffe9081a.chunk.js.LICENSE.txt": "/MERN-ReactForExpress/static/js/2.ffe9081a.chunk.js.LICENSE.txt",
     "static/js/3.9d53ef3c.chunk.js.LICENSE.txt": "/MERN-ReactForExpress/static/js/3.9d53ef3c.chunk.js.LICENSE.txt",
     "static/media/Complete 2.m4a": "/MERN-ReactForExpress/static/media/Complete 2.2655ec0c.m4a",
     "static/media/Derek_Clegg_-_09_-_Youre_The_Dummy.mp3": "/MERN-ReactForExpress/static/media/Derek_Clegg_-_09_-_Youre_The_Dummy.3d8fffdc.mp3",
@@ -29,8 +29,8 @@
   "entrypoints": [
     "static/js/runtime-main.0d207709.js",
     "static/css/2.a8da4384.chunk.css",
-    "static/js/2.0a2badb4.chunk.js",
+    "static/js/2.ffe9081a.chunk.js",
     "static/css/main.3477facf.chunk.css",
-    "static/js/main.112aca78.chunk.js"
+    "static/js/main.47f97538.chunk.js"
   ]
 }
