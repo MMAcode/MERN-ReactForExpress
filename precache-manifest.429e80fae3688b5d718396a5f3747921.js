@@ -1,39 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8a11e7b700fcf2d3b08ddd6fc166ef7d",
+    "revision": "3e07fe7af37a120ca6dc474f9d102757",
     "url": "/MERN-ReactForExpress/index.html"
   },
   {
-    "revision": "189e2c85b94b52b3ac59",
-    "url": "/MERN-ReactForExpress/static/css/2.a8da4384.chunk.css"
+    "revision": "6ed189e6053890812ff6",
+    "url": "/MERN-ReactForExpress/static/css/2.6766e61a.chunk.css"
   },
   {
-    "revision": "b9049b33c8e5bcd7cdc2",
+    "revision": "8211eb029cba1bf56a01",
     "url": "/MERN-ReactForExpress/static/css/main.3477facf.chunk.css"
   },
   {
-    "revision": "189e2c85b94b52b3ac59",
-    "url": "/MERN-ReactForExpress/static/js/2.ffe9081a.chunk.js"
+    "revision": "6ed189e6053890812ff6",
+    "url": "/MERN-ReactForExpress/static/js/2.756886b8.chunk.js"
   },
   {
     "revision": "99121819768dd441bad81df3a6db497d",
-    "url": "/MERN-ReactForExpress/static/js/2.ffe9081a.chunk.js.LICENSE.txt"
+    "url": "/MERN-ReactForExpress/static/js/2.756886b8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "255efeb9d7ee11ec0b73",
-    "url": "/MERN-ReactForExpress/static/js/3.9d53ef3c.chunk.js"
+    "revision": "f7b0f28e51f891ac5dcc",
+    "url": "/MERN-ReactForExpress/static/js/3.de7524ef.chunk.js"
   },
   {
     "revision": "287e48aeac3564a8b2b5685a67fb9216",
-    "url": "/MERN-ReactForExpress/static/js/3.9d53ef3c.chunk.js.LICENSE.txt"
+    "url": "/MERN-ReactForExpress/static/js/3.de7524ef.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b9049b33c8e5bcd7cdc2",
-    "url": "/MERN-ReactForExpress/static/js/main.69ce8d9f.chunk.js"
+    "revision": "8211eb029cba1bf56a01",
+    "url": "/MERN-ReactForExpress/static/js/main.8503ccc6.chunk.js"
   },
   {
-    "revision": "80cc7ab06e8e72f78d12",
-    "url": "/MERN-ReactForExpress/static/js/runtime-main.0d207709.js"
+    "revision": "5d061b9ae0f5a441d61b",
+    "url": "/MERN-ReactForExpress/static/js/runtime-main.56abc9ac.js"
   },
   {
     "revision": "2655ec0c046600622ed464009aece931",
