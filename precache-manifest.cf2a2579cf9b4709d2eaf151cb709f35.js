@@ -1,39 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "98af1d93be5522ddbfa27aeb64e1cdcc",
+    "revision": "4628fa63470077a5361481b6955dfa5c",
     "url": "/MERN-ReactForExpress/index.html"
   },
   {
-    "revision": "0e5d74056e7377957448",
-    "url": "/MERN-ReactForExpress/static/css/2.76c1ab28.chunk.css"
+    "revision": "5bca8e06a23bec2935f8",
+    "url": "/MERN-ReactForExpress/static/css/2.34898296.chunk.css"
   },
   {
-    "revision": "3e6d317deaed63f49fc2",
-    "url": "/MERN-ReactForExpress/static/css/main.3477facf.chunk.css"
+    "revision": "900622029caa5828c1f6",
+    "url": "/MERN-ReactForExpress/static/css/main.52e62d61.chunk.css"
   },
   {
-    "revision": "0e5d74056e7377957448",
-    "url": "/MERN-ReactForExpress/static/js/2.90ff42e1.chunk.js"
+    "revision": "5bca8e06a23bec2935f8",
+    "url": "/MERN-ReactForExpress/static/js/2.590080c5.chunk.js"
   },
   {
     "revision": "99121819768dd441bad81df3a6db497d",
-    "url": "/MERN-ReactForExpress/static/js/2.90ff42e1.chunk.js.LICENSE.txt"
+    "url": "/MERN-ReactForExpress/static/js/2.590080c5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2f4de73015ea99e10b8c",
-    "url": "/MERN-ReactForExpress/static/js/3.6dd548ca.chunk.js"
+    "revision": "98762dd56de895ae59cb",
+    "url": "/MERN-ReactForExpress/static/js/3.d5cc341e.chunk.js"
   },
   {
     "revision": "287e48aeac3564a8b2b5685a67fb9216",
-    "url": "/MERN-ReactForExpress/static/js/3.6dd548ca.chunk.js.LICENSE.txt"
+    "url": "/MERN-ReactForExpress/static/js/3.d5cc341e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3e6d317deaed63f49fc2",
-    "url": "/MERN-ReactForExpress/static/js/main.aacc2c16.chunk.js"
+    "revision": "900622029caa5828c1f6",
+    "url": "/MERN-ReactForExpress/static/js/main.e2a87f31.chunk.js"
   },
   {
-    "revision": "584ff216579a694424b2",
-    "url": "/MERN-ReactForExpress/static/js/runtime-main.bbeefb59.js"
+    "revision": "209949c9517e75375275",
+    "url": "/MERN-ReactForExpress/static/js/runtime-main.b8d8dc93.js"
   },
   {
     "revision": "2655ec0c046600622ed464009aece931",
