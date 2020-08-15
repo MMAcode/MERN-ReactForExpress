@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cfabd74e832a1187492fffbeee1a443b",
+    "revision": "dca6cb2294d925e8ef97d1d0dc7add4b",
     "url": "/MERN-ReactForExpress/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MERN-ReactForExpress/static/css/2.34898296.chunk.css"
   },
   {
-    "revision": "a5b695981086f47d41fa",
+    "revision": "dcc48556aaa68a819673",
     "url": "/MERN-ReactForExpress/static/css/main.52e62d61.chunk.css"
   },
   {
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MERN-ReactForExpress/static/js/3.cf6989b4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a5b695981086f47d41fa",
-    "url": "/MERN-ReactForExpress/static/js/main.adb4a9ce.chunk.js"
+    "revision": "dcc48556aaa68a819673",
+    "url": "/MERN-ReactForExpress/static/js/main.fa1dc942.chunk.js"
   },
   {
     "revision": "39ac22b8a82e76ce22a9",
