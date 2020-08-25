@@ -1,39 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a48aa86c5b1a5713d57bd2b46b7193c3",
+    "revision": "b605e6b3f6d04915a924c00ff78823ff",
     "url": "/MERN-ReactForExpress/index.html"
   },
   {
-    "revision": "2697f1780faf502a77db",
+    "revision": "2c31b1af25c332e9260e",
     "url": "/MERN-ReactForExpress/static/css/2.dcfdfb7d.chunk.css"
   },
   {
-    "revision": "49d7bb08d4debce5c2b1",
-    "url": "/MERN-ReactForExpress/static/css/main.fd36d904.chunk.css"
+    "revision": "d0bbbfae94ef5f7850e1",
+    "url": "/MERN-ReactForExpress/static/css/main.cf610412.chunk.css"
   },
   {
-    "revision": "2697f1780faf502a77db",
-    "url": "/MERN-ReactForExpress/static/js/2.a5f2361f.chunk.js"
+    "revision": "2c31b1af25c332e9260e",
+    "url": "/MERN-ReactForExpress/static/js/2.4e6389e8.chunk.js"
   },
   {
     "revision": "cd3f645bdc7ddc24168b77220faeeb97",
-    "url": "/MERN-ReactForExpress/static/js/2.a5f2361f.chunk.js.LICENSE.txt"
+    "url": "/MERN-ReactForExpress/static/js/2.4e6389e8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "42d41b323e856d56aa8b",
-    "url": "/MERN-ReactForExpress/static/js/3.637bad62.chunk.js"
+    "revision": "2dab3c9becab6341cc00",
+    "url": "/MERN-ReactForExpress/static/js/3.893410a3.chunk.js"
   },
   {
     "revision": "287e48aeac3564a8b2b5685a67fb9216",
-    "url": "/MERN-ReactForExpress/static/js/3.637bad62.chunk.js.LICENSE.txt"
+    "url": "/MERN-ReactForExpress/static/js/3.893410a3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "49d7bb08d4debce5c2b1",
-    "url": "/MERN-ReactForExpress/static/js/main.2e5c8156.chunk.js"
+    "revision": "d0bbbfae94ef5f7850e1",
+    "url": "/MERN-ReactForExpress/static/js/main.82e2c73e.chunk.js"
   },
   {
-    "revision": "a3ec1a5991ce67ee0b7c",
-    "url": "/MERN-ReactForExpress/static/js/runtime-main.dbecadfc.js"
+    "revision": "66fc335bfc7cf663e54a",
+    "url": "/MERN-ReactForExpress/static/js/runtime-main.7d37178b.js"
   },
   {
     "revision": "2655ec0c046600622ed464009aece931",
