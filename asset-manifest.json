@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/MERN-ReactForExpress/static/css/main.cf610412.chunk.css",
-    "main.js": "/MERN-ReactForExpress/static/js/main.4ab9203c.chunk.js",
-    "main.js.map": "/MERN-ReactForExpress/static/js/main.4ab9203c.chunk.js.map",
-    "runtime-main.js": "/MERN-ReactForExpress/static/js/runtime-main.7d37178b.js",
-    "runtime-main.js.map": "/MERN-ReactForExpress/static/js/runtime-main.7d37178b.js.map",
+    "main.css": "/MERN-ReactForExpress/static/css/main.b1254b1d.chunk.css",
+    "main.js": "/MERN-ReactForExpress/static/js/main.592c2b09.chunk.js",
+    "main.js.map": "/MERN-ReactForExpress/static/js/main.592c2b09.chunk.js.map",
+    "runtime-main.js": "/MERN-ReactForExpress/static/js/runtime-main.ae20e5f6.js",
+    "runtime-main.js.map": "/MERN-ReactForExpress/static/js/runtime-main.ae20e5f6.js.map",
     "static/css/2.dcfdfb7d.chunk.css": "/MERN-ReactForExpress/static/css/2.dcfdfb7d.chunk.css",
-    "static/js/2.4e6389e8.chunk.js": "/MERN-ReactForExpress/static/js/2.4e6389e8.chunk.js",
-    "static/js/2.4e6389e8.chunk.js.map": "/MERN-ReactForExpress/static/js/2.4e6389e8.chunk.js.map",
-    "static/js/3.893410a3.chunk.js": "/MERN-ReactForExpress/static/js/3.893410a3.chunk.js",
-    "static/js/3.893410a3.chunk.js.map": "/MERN-ReactForExpress/static/js/3.893410a3.chunk.js.map",
+    "static/js/2.c3b3b6aa.chunk.js": "/MERN-ReactForExpress/static/js/2.c3b3b6aa.chunk.js",
+    "static/js/2.c3b3b6aa.chunk.js.map": "/MERN-ReactForExpress/static/js/2.c3b3b6aa.chunk.js.map",
+    "static/js/3.1d6b9508.chunk.js": "/MERN-ReactForExpress/static/js/3.1d6b9508.chunk.js",
+    "static/js/3.1d6b9508.chunk.js.map": "/MERN-ReactForExpress/static/js/3.1d6b9508.chunk.js.map",
     "index.html": "/MERN-ReactForExpress/index.html",
-    "precache-manifest.6a5b57c76dd7feb41b61b63b158c01b8.js": "/MERN-ReactForExpress/precache-manifest.6a5b57c76dd7feb41b61b63b158c01b8.js",
+    "precache-manifest.b2662516952ade527ec913517df57412.js": "/MERN-ReactForExpress/precache-manifest.b2662516952ade527ec913517df57412.js",
     "service-worker.js": "/MERN-ReactForExpress/service-worker.js",
     "static/css/2.dcfdfb7d.chunk.css.map": "/MERN-ReactForExpress/static/css/2.dcfdfb7d.chunk.css.map",
-    "static/css/main.cf610412.chunk.css.map": "/MERN-ReactForExpress/static/css/main.cf610412.chunk.css.map",
-    "static/js/2.4e6389e8.chunk.js.LICENSE.txt": "/MERN-ReactForExpress/static/js/2.4e6389e8.chunk.js.LICENSE.txt",
-    "static/js/3.893410a3.chunk.js.LICENSE.txt": "/MERN-ReactForExpress/static/js/3.893410a3.chunk.js.LICENSE.txt",
+    "static/css/main.b1254b1d.chunk.css.map": "/MERN-ReactForExpress/static/css/main.b1254b1d.chunk.css.map",
+    "static/js/2.c3b3b6aa.chunk.js.LICENSE.txt": "/MERN-ReactForExpress/static/js/2.c3b3b6aa.chunk.js.LICENSE.txt",
+    "static/js/3.1d6b9508.chunk.js.LICENSE.txt": "/MERN-ReactForExpress/static/js/3.1d6b9508.chunk.js.LICENSE.txt",
     "static/media/Complete 2.m4a": "/MERN-ReactForExpress/static/media/Complete 2.2655ec0c.m4a",
     "static/media/Derek_Clegg_-_09_-_Youre_The_Dummy.mp3": "/MERN-ReactForExpress/static/media/Derek_Clegg_-_09_-_Youre_The_Dummy.3d8fffdc.mp3",
     "static/media/Gicon.png": "/MERN-ReactForExpress/static/media/Gicon.0b1e5c66.png",
@@ -28,10 +28,10 @@
     "static/media/taffFemale.mp3": "/MERN-ReactForExpress/static/media/taffFemale.996f7eac.mp3"
   },
   "entrypoints": [
-    "static/js/runtime-main.7d37178b.js",
+    "static/js/runtime-main.ae20e5f6.js",
     "static/css/2.dcfdfb7d.chunk.css",
-    "static/js/2.4e6389e8.chunk.js",
-    "static/css/main.cf610412.chunk.css",
-    "static/js/main.4ab9203c.chunk.js"
+    "static/js/2.c3b3b6aa.chunk.js",
+    "static/css/main.b1254b1d.chunk.css",
+    "static/js/main.592c2b09.chunk.js"
   ]
 }
