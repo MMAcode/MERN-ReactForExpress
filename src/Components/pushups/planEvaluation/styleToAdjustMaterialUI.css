@@ -1,0 +1,17 @@
+.MuiSlider-markLabel {
+  /* color: red; */
+  max-width: 20%;
+  /* width: 10px; */
+  /* height:1px; */
+  text-align: center;
+  white-space: normal;
+  touch-action: none !important;
+}
+
+/* .MuiSlider-thumb{
+  width:0px;
+} */
+
+.MuiSlider-vertical {
+  /* height: 200px; */
+}

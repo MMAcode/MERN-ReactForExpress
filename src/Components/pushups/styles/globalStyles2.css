@@ -1,0 +1,110 @@
+p {
+  margin: 0;
+}
+
+button:active,
+a:active,
+button:focus,
+a:focus {
+  background-color: greenyellow;
+  opacity: 1;
+}
+
+button {
+  background-color: rgba(255, 0, 0, 0.199);
+  margin: 5px 10px;
+  transition: all 0.3s;
+  outline: none;
+}
+button:hover {
+  background-color: red;
+}
+
+button:focus {
+  outline: 0 !important;
+}
+
+input[type=button]::-moz-focus-inner {
+  border: 0;
+}
+
+.infoBubble p {
+  padding-bottom: 10px;
+}
+
+.iconAndText svg {
+  animation: rotateIcon 1s forwards ease-out;
+}
+
+.buttonIconVerticalWrapper {
+  border-radius: 10px 10px 0 0;
+  background: linear-gradient(180deg, lightGray 60%, white);
+  box-shadow: 4px 5px 5px 0px rgba(0, 0, 0, 0.5);
+  margin: 12px;
+  color: black;
+  display: inline-block;
+}
+
+.historyElementContainer {
+  padding: 15px 5px;
+}
+
+.btnOpacity:hover {
+  cursor: pointer;
+}
+
+.adjustPlanDuplicateDeleteSetOrTrainingButtonsWrapper {
+  text-align: right;
+  opacity: 0.6;
+}
+
+.adjustPlanDuplicateDeleteSetOrTrainingButton {
+  margin: 10px;
+}
+
+.ql-toolbar {
+  background: #eaecec;
+  border-radius: 0.5rem;
+}
+
+.ql-container {
+  border: none !important;
+}
+
+.ql-MiroSubmitButton {
+  background: #eaecec;
+  border-radius: 0.5rem;
+}
+
+#userLoadingComponent {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  background: #00ff0d;
+  background: radial-gradient(circle, rgba(0, 255, 13, 0.9329481793) 10%, black 100%);
+  opacity: 0.95;
+  transition: opacity 300ms;
+  transition-duration: 0.25s;
+}
+
+@keyframes AnimatedButtonMiro {
+  0% {
+    box-shadow: 0px 5px 5px 0px rgba(255, 0, 0, 0.5);
+  }
+  20% {
+    box-shadow: 0px 0px 6px 10px rgba(255, 0, 0, 0.5);
+  }
+  40% {
+    box-shadow: 0px 5px 5px 0px rgba(255, 0, 0, 0.5);
+  }
+  100% {
+    box-shadow: 0px 5px 5px 0px rgba(255, 0, 0, 0.5);
+  }
+}
+@keyframes rotateIcon {
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+/*# sourceMappingURL=globalStyles2.css.map */

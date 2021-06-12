@@ -1,0 +1,218 @@
+p {
+  margin: 0;
+}
+
+button:active,
+a:active,
+button:focus,
+a:focus {
+  background-color: greenyellow;
+  opacity: 1;
+  // color: brown
+}
+
+button {
+  // opacity: 0.7;
+  background-color: rgba(255, 0, 0, 0.199);
+  margin: 5px 10px;
+  // display: inline-block;
+  // transition: background-color 0.3s;
+  transition: all 0.3s;
+  outline: none;
+  ;
+
+  &:hover {
+    // opacity:0.3;
+    background-color: red;
+  }
+
+  // &:focus {
+  // outline: 0 !important;
+  // }
+}
+
+// cancelling button outline on click
+button:focus {
+  outline: 0 !important;
+  // color:brown
+}
+
+// input[type="button"],
+// input[type="button"]:focus {
+//   // border: none;
+//   outline: none;
+//   opacity: 0.5;
+// }
+
+
+
+input[type="button"]::-moz-focus-inner {
+  border: 0;
+}
+
+
+
+
+//classes
+
+.infoBubble {
+  p{
+    padding-bottom: 10px;
+  }
+}
+
+.iconAndText {
+  svg {
+    animation: rotateIcon 1s forwards ease-out;
+  }
+}
+
+.buttonIconVerticalWrapper {
+  border-radius: 10px 10px 0 0;
+  // border-radius: 10px;
+  // backgroundColor: lightGray;
+  background: linear-gradient(180deg,lightGray 60%, white);
+  // background: 'transparent';
+  box-shadow: 4px 5px 5px 0px rgba(0, 0, 0, 0.5);
+  margin:12px;
+  color:black;
+
+  display: inline-block;
+}
+
+
+
+.historyElementContainer {
+  padding: 15px 5px;
+}
+
+.btnOpacity {
+  // transition: opacity 0.3s;
+
+  &:hover {
+    cursor: pointer;
+    // opacity: 0.5;
+  }
+}
+
+.adjustPlanDuplicateDeleteSetOrTrainingButtonsWrapper {
+  text-align: right;
+  opacity: 0.6;
+}
+
+.adjustPlanDuplicateDeleteSetOrTrainingButton {
+  margin: 10px;
+}
+
+//rich text
+//React quill
+.ql-toolbar {
+  // display:none;
+
+  background: #eaecec;
+  border-radius: 0.5rem;
+  // border-top-left-radius: 0.5em;
+  // border-top-right-radius: 0.5em;
+}
+
+.ql-container {
+  border: none !important;
+
+  // min-height: 4rem;
+  // border: 1px gray solid !important;
+  // border-radius: 0.5em;
+  // background: #fefcfc;
+
+  // border:none !important;
+  // border: 1px gray solid !important;
+  // border: 1px gray lined !important;
+  // border-bottom-left-radius: 0.5em;
+  // border-bottom-right-radius: 0.5em;
+}
+
+.ql-MiroSubmitButton {
+  // background: #eaecec !important;
+  background: #eaecec;
+  border-radius: 0.5rem;
+}
+
+// .wrapper-class{
+//   // background-color: lightgray;
+// }
+// .editor-class{
+//   // background-color: orange;
+// }
+// .toolbar-class{
+//   // background-color: green;
+//   // background-color: yellow;
+// }
+
+
+//IDs
+
+#userLoadingComponent {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  // background-color: green;
+  background: rgb(0, 255, 13);
+  background: radial-gradient(circle, rgba(0, 255, 13, 0.9329481792717087) 10%, rgba(0, 0, 0, 1) 100%);
+  opacity: 0.95;
+
+  transition: opacity 300ms;
+  transition-duration: 0.25s;
+}
+
+
+
+// ANIMATIONS
+@keyframes AnimatedButtonMiro {
+  0% {
+    // background:transparent;
+    // background: linear-gradient(180deg,lightGray 60%, white),
+    // background-position: 0% 0%;
+
+    // border:5px solid transparent;
+
+    // box-shadow: 0px 0px 6px 2px rgba(0,0,0,0.1);
+    box-shadow: 0px 5px 5px 0px rgba(255, 0, 0, 0.5),
+
+  }
+
+  20% {
+    // background: red,
+    // border:5px solid transparent;
+
+    box-shadow: 0px 0px 6px 10px rgba(255, 0, 0, 0.5);
+    // transform:translate(10px,10px);
+    // transform:scale(0.9);
+    // box-shadow: 0px 5px 5px 0px rgba(255, 0, 0, 1),
+
+  }
+
+  40% {
+    // background:transparent;
+    // border:5px solid transparent;
+
+    // box-shadow: 0px 0px 6px 2px rgba(255,0,0,0.1);
+    box-shadow: 0px 5px 5px 0px rgba(255, 0, 0, 0.5),
+
+
+  }
+
+  100% {
+    // background:transparent;
+    // border:5px solid transparent;
+
+    // box-shadow: 0px 0px 6px 2px rgba(255,0,0,0.1);
+    box-shadow: 0px 5px 5px 0px rgba(255, 0, 0, 0.5),
+
+
+  }
+}
+
+@keyframes rotateIcon {
+  100% {
+    transform: rotate(360deg);
+  }
+}

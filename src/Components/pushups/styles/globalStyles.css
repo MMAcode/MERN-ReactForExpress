@@ -1,0 +1,9 @@
+.btnOpacity {
+  transition: opacity 0.3s;
+}
+.btnOpacity:hover {
+  cursor: pointer;
+  opacity: 0.5;
+  /* color: rgba(255, 166, 0, 0.452); */
+}
+

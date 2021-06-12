@@ -1,0 +1,22 @@
+#alertForSec {
+  position: fixed;
+  top: 20%;
+  right: 50%;
+  margin: 5px;
+  font-size: 2rem;
+  padding: 5px 10px;
+  transform: translate(70%, -30%);
+  -webkit-transform: translate(70%, -30%);
+  -moz-transform: translate(70%, -30%);
+  -ms-transform: translate(70%, -30%);
+  -o-transform: translate(70%, -30%);
+  background-color: red !important;
+  z-index: 1000000;
+  text-align: center;
+}
+
+.textToHighlight {
+  user-select: text;
+  -webkit-user-select: text;
+  color: brown;
+}
