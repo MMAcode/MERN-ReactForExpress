@@ -2,9 +2,11 @@ import React from 'react';
 // import CatsFrame from './APIs/CatsFrame';
 import DogsFrame from './APIs/DogsFrame';
 import APITemplate from './APIs/APITemplate';
+import { urlRoot } from '../globalState/globalVariables';
 import styled from 'styled-components'
 
 
+console.log(urlRoot);
 
 // const Block = styled(CatsAPI)`
 // background-color: green !important;
@@ -22,8 +24,8 @@ margin:10px;
 
 
 function APIPage() {
-  const urlRoot = 'https://mern-express-heroku.herokuapp.com/api';
-  // const urlRoot = 'http://localhost:3001/api';
+  // urlRoot = 'https://mern-express-heroku.herokuapp.com/api';
+  // urlRoot = 'http://localhost:3001/api';
   return (
     <>
       <h2>This is API page.</h2>
